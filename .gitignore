@@ -3,6 +3,7 @@
 /node_modules
 /user_guide_src
 /runtime
+/.svn
 
 ## 前端
 .svn
