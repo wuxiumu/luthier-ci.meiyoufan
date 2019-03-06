@@ -5,7 +5,7 @@
 /runtime
 
 ## 前端
-
+.svn
 .DS_Store
 node_modules
 /dist
